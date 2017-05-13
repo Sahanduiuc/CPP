@@ -1,0 +1,15 @@
+Log file: For the up-and-out call price the results are
+value: 0.767657
+paths so far: 2.000000
+value: 0.383828
+paths so far: 4.000000
+value: 0.334582
+paths so far: 8.000000
+value: 0.358388
+paths so far: 16.000000
+value: 0.594625
+paths so far: 32.000000
+value: 0.481162
+paths so far: 64.000000
+value: 0.435620
+paths so far: 100.000000
